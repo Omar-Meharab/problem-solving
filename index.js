@@ -30,6 +30,6 @@ let getLargestNumber = (givenArray, number) => {
 }
 
 let a = [1, 4, 7, 16];
-let b = [4]
+let b = 4;
 
 console.log(getLargestNumber(a, b));
